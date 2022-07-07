@@ -19,7 +19,7 @@
     "jade": "~1.11.0",
     "less-middleware": "^3.0.1",
     "method-override": "^3.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mongodb": "^3.1.1",
     "mongoskin": "^2.1.0",
     "morgan": "^1.9.0",
